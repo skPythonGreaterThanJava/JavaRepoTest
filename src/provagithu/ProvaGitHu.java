@@ -17,7 +17,7 @@ public class ProvaGitHu {
     public static void main(String[] args) {
         double i = 69;
         while(true){
-            System.out.println("Henlo " + i);
+            System.out.println("henlo " + i);
             i++;
         }
     }
