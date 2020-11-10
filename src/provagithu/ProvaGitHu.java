@@ -15,7 +15,7 @@ public class ProvaGitHu {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int i = 0;
+        double i = 69;
         while(true){
             System.out.println("Henlo " + i);
             i++;
